@@ -1,6 +1,6 @@
 # ChemVLR: Prioritizing Reasoning in Perception for Chemical Vision-Language Understanding (ACL 2026 Findings)
 
-[![🤗 Dataset (Coming Soon)](https://img.shields.io/badge/Dataset-Coming_Soon-FFD21E.svg?logo=huggingface&logoColor=yellow)](#) [![🤗 Model (HuggingFace)](https://img.shields.io/badge/Model-HuggingFace-FFD21E.svg?logo=huggingface&logoColor=yellow)](https://huggingface.co/xxxllz/ChemVLR-8B) [![📑 Paper (arXiv)](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.06685)
+[![🤗 Dataset (Coming Soon)](https://img.shields.io/badge/Dataset-Coming_Soon-FFD21E.svg?logo=huggingface&logoColor=yellow)](#) [![🤗 ChemVLR-7B (HuggingFace)](https://img.shields.io/badge/ChemVLR--7B-HuggingFace-FFD21E.svg?logo=huggingface&logoColor=yellow)](https://huggingface.co/xxxllz/ChemVLR-7B) [![🤗 ChemVLR-8B (HuggingFace)](https://img.shields.io/badge/ChemVLR--8B-HuggingFace-FFD21E.svg?logo=huggingface&logoColor=yellow)](https://huggingface.co/xxxllz/ChemVLR-8B) [![📑 Paper (arXiv)](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.06685)
 
 This repository is the official implementation of [ChemVLR: Prioritizing Reasoning in Perception for Chemical Vision-Language Understanding](https://arxiv.org/abs/2604.06685).
 
